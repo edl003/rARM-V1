@@ -9,7 +9,7 @@
 
 ## Initial testing of the 5-DOF Hand
 
-The goal of our project, the "Autonomous Ticketing Agent",
+After completing the build for my Robotic ARM v1, I quickly programmed a control that mapped the variable trigger on the PS4 controller to the 5 servos on the hand. Through this, I was able to adjust how much force I wanted to exert when grabbing an object. 
 
 <div align="center">
   <video src=https://github.com/user-attachments/assets/cd6475fe-c209-4ee7-a7b4-23261602fb6f />
