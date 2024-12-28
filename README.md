@@ -17,7 +17,7 @@ After completing the build for my Robotic ARM v1, I quickly programmed a control
   
 ## Complete test of the 10-DOF Robotic ARM using a Bluetooth Controller
 
-The goal of our project, the "Autonomous Ticketing Agent",
+I continued mapping the various controls on the PS4 controller to the various hand servos and dynamixel servos. This gave me complete control over all of the degrees of motion that the Robotic ARM v1 had to offer. Not only that, but I also created custom scripts that showcased various gestures on the hand when I pressed certain buttons on the PS4 controller. 
 
 <div align="center">
   <video src=https://github.com/user-attachments/assets/455aea28-5d34-44c8-955e-67ec9d0e73e5 />
