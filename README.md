@@ -11,7 +11,9 @@
 
 The goal of our project, the "Autonomous Ticketing Agent",
 
-<h1 align="center">https://github.com/user-attachments/assets/cd6475fe-c209-4ee7-a7b4-23261602fb6f
+<div align="center">
+https://github.com/user-attachments/assets/cd6475fe-c209-4ee7-a7b4-23261602fb6f
+</div>
   
 ## Complete test of the Robotic ARM using a Bluetooth Controller
 
