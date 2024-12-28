@@ -4,3 +4,9 @@
 <div align="center">
 
 ## 
+
+</p>
+<img src="images\robotCAD.png?" width="500" height="500">
+</div>
+
+## Programming the Controls
