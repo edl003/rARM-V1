@@ -17,3 +17,8 @@ The goal of our project, the "Autonomous Ticketing Agent",
   
 ## Complete test of the 10-DOF Robotic ARM using a Bluetooth Controller
 
+The goal of our project, the "Autonomous Ticketing Agent",
+
+<div align="center">
+  <video src=https://github.com/user-attachments/assets/455aea28-5d34-44c8-955e-67ec9d0e73e5 />
+</div>
