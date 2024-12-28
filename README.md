@@ -11,7 +11,6 @@
 
 The goal of our project, the "Autonomous Ticketing Agent",
 
-<div align="center">
 https://github.com/user-attachments/assets/cd6475fe-c209-4ee7-a7b4-23261602fb6f
   
 ## Programming the Controls
