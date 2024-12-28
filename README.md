@@ -4,7 +4,7 @@
 <div align="center">
 
 </p>
-<img src="images\robotCAD(1).png?" width="500" height="500">
+<img src="images\robotCAD(1).png?" width="400" height="400">
 </div>
 
 ## Initial testing of the 5-DOF Hand
