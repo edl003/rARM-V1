@@ -7,7 +7,7 @@
 <img src="images\robotCAD(1).png?" width="400" height="400">
 </div>
 
-## Initial testing of the 5-DOF Hand
+## Initial testing of the 5-Degrees-of-Freedom (DoF) hand
 
 After completing the build for my Robotic ARM v1, I quickly programmed a control that mapped the variable trigger on the PS4 controller to the 5 servos on the hand. Through this, I was able to adjust how much force I wanted to exert when grabbing an object. 
 
@@ -15,7 +15,7 @@ After completing the build for my Robotic ARM v1, I quickly programmed a control
   <video src=https://github.com/user-attachments/assets/cd6475fe-c209-4ee7-a7b4-23261602fb6f />
 </div>
   
-## Complete test of the 10-DOF Robotic ARM using a Bluetooth Controller
+## Complete test of the 10-DOF Robotic ARM using a Bluetooth controller
 
 I continued mapping the various controls on the PS4 controller to the various hand servos and dynamixel servos. This gave me complete control over all of the degrees of motion that the Robotic ARM v1 had to offer. Not only that, but I also created custom scripts that showcased various gestures on the hand when I pressed certain buttons on the PS4 controller. 
 
